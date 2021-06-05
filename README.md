@@ -1,5 +1,5 @@
 # 229-audsara
 
-group project for audrey jang and sara tohamy 
+UP229 Group project for Audrey Jang and Sara Tohamy 
 
-gentrification signals in rental listings 
+Topic: Gentrification signals in rental listings 
