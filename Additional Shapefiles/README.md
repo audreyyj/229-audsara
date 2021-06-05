@@ -1,1 +1,1 @@
-Here you can find additional data that was brought in to the final assignment notebook. This mostly just includes neighborhood shapefiles
+Here you can find additional data that was brought in to the final assignment notebook. This mostly just includes neighborhood shapefiles and saved CSVs that will save running time if uploaded rather than running the code to generate them. 
